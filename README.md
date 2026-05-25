@@ -126,11 +126,11 @@ You can reach me via email at 1632241215@qq.com.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://github.com/sx13694658890/galaxy/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/blob/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://github.com/sx13694658890/galaxy/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 </div>
 
 <div align="center">
-<img src="https://github.com/sx13694658890/galaxy/assets/images/icon.png" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/icon.png" />
 </div>
