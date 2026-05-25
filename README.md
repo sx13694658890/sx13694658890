@@ -18,9 +18,6 @@ You can reach me via email at 1632241215@qq.com.
 </picture>
 <div>
   <a href="https://github.com/sx13694658890"><img src="" alt="GitHub" title="GitHub" /></a>&emsp;
-  <a href="https://blog.sx13694658890.eu.org"><img src="" /></a>&emsp;
-  <a href="https://go.sx13694658890.eu.org/gzh"><img src="" /></a>&emsp;
-  <a href="https://space.bilibili.com/1412014683"><img src=""/></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=sx13694658890&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
